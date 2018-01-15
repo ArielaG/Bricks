@@ -1,2 +1,6 @@
 # Bricks
-Brick walls &amp; Puddles exercise
+Brick walls and Puddles exercise
+
+Mastering Web technologies such as Angular and NodeJS 
+
+Purpose
